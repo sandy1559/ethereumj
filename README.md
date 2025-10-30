@@ -111,7 +111,7 @@ To override needed options you may use one of the following ways:
 
 Note that don’t need to put all the options to your custom config, just those you want to override. 
 
-# Special thanks
+# Special thanks to
 YourKit for providing us with their nice profiler absolutely for free.
 
 YourKit supports open source projects with its full-featured Java Profiler.
